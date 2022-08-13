@@ -73,9 +73,7 @@ Razões para construir uma versão própria:
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Construido com :
 
 * [![Django][Django.com]][Django-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
