@@ -62,8 +62,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto :
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Por mais que já existam diversos encurtadores de URLs e que seja algo relativamente fácil de implementar, é interessante a construção de um para fins educativos. 
 
 Razões para construir uma versão própria:
@@ -116,7 +114,7 @@ O uso desse tipo de aplicação web é simples e bem conhecido, portanto não h�
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gabriel-bezerra-303b12161/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/gabriellbezerra/Simple-Redirect-Web-App/blob/main/Assets/Insert_URL.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
